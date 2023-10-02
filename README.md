@@ -1,2 +1,2 @@
-# WheelFortune
+# Game : WheelFortune(beta)
 for Unity
